@@ -1,0 +1,182 @@
+[
+  {
+    "student": "Shan Leo Yong",
+    "url": "https://music-palz.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://music-palz.vercel.app/",
+    "title": "MusicPalz — Find your people by taste",
+    "description": "Build a private, browser-only music profile and explore fictional friendship matches through transparent genre and song compatibility.",
+    "ogImage": ""
+  },
+  {
+    "student": "Naomi Chang",
+    "url": "https://intern-job-helper.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://intern-job-helper.vercel.app/",
+    "title": "IMB Career Finder",
+    "description": "Find U.S. internships and early-career roles matched to an Interactive Media and Business background.",
+    "ogImage": ""
+  },
+  {
+    "student": "Michelle Fung",
+    "url": "https://graduate-salary-tracker.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://graduate-salary-tracker.vercel.app/",
+    "title": "Graduate Salary Tracker",
+    "description": "Explore salary estimates for early-career roles.",
+    "ogImage": ""
+  },
+  {
+    "student": "Melody Xie",
+    "url": "https://smart-flight-discovery.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://smart-flight-discovery.vercel.app/",
+    "title": "Flight Finder — Smart Flight Discovery",
+    "description": "Explore prepared flight itineraries across flexible dates.",
+    "ogImage": ""
+  },
+  {
+    "student": "Echo Fan",
+    "url": "https://echo-sunday.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://echo-sunday.vercel.app/",
+    "title": "Book Decision Tool",
+    "description": "Get a concise, personalized shortlist of books from Open Library.",
+    "ogImage": ""
+  },
+  {
+    "student": "Samira",
+    "url": "https://socratic-debugging-tutor.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://socratic-debugging-tutor.vercel.app/",
+    "title": "FoundIt",
+    "description": "FoundIt is a calm Socratic guide for beginner Python and JavaScript debugging.",
+    "ogImage": ""
+  },
+  {
+    "student": "Yanrou Gao",
+    "url": "https://interactive-resume-eight-sigma.vercel.app/#certificates",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://interactive-resume-eight-sigma.vercel.app/",
+    "title": "Yarou Gao — Interactive Resume",
+    "description": "An interactive resume and evidence-based portfolio for Yarou Gao.",
+    "ogImage": ""
+  },
+  {
+    "student": "Danaya",
+    "url": "https://burgas-food-match.vercel.app",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://burgas-food-match.vercel.app/",
+    "title": "Burgas Food Match",
+    "description": "Find promising restaurant and dish matches in Burgas based on your food profile.",
+    "ogImage": ""
+  },
+  {
+    "student": "Sicheng Song",
+    "url": "https://fashion-archive-website.vercel.app?_vercel_share=YO2NaBZbqLSJciUSNPoppSXhNXNCYGr4",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://fashion-archive-website.vercel.app/?_vercel_share=YO2NaBZbqLSJciUSNPoppSXhNXNCYGr4",
+    "title": "FORM / ARCHIVE",
+    "description": "A bilingual archive of selected Yohji Yamamoto and Rei Kawakubo collections.",
+    "ogImage": ""
+  },
+  {
+    "student": "Matthew",
+    "url": "https://chinese-news-eta.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://chinese-news-eta.vercel.app/",
+    "title": "Daily Chinese Read",
+    "description": "A focused reader for advanced Mandarin learners.",
+    "ogImage": ""
+  },
+  {
+    "student": "Jae Huang",
+    "url": "https://soundcheck-mvp.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://soundcheck-mvp.vercel.app/",
+    "title": "Soundcheck",
+    "description": "Your concert-preparation workspace.",
+    "ogImage": ""
+  },
+  {
+    "student": "Elena Yan",
+    "url": "https://flight-price-explorer.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://flight-price-explorer.vercel.app/",
+    "title": "Flight Price Explorer",
+    "description": "Search live flight offers by route, date, cabin, travelers, and maximum stops.",
+    "ogImage": ""
+  },
+  {
+    "student": "Theo Wu",
+    "url": "https://precimac.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://precimac.vercel.app/",
+    "title": "Precimac (精点) — High Precision Nutrition Engine",
+    "description": "Precimac turns exact nutrition targets into meal plans and copyable grocery lists.",
+    "ogImage": ""
+  },
+  {
+    "student": "Lefei Yu",
+    "url": "https://lefei-tour.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://lefei-tour.vercel.app/",
+    "title": "Lefei TOUR — Travel, thoughtfully arranged",
+    "description": "Curated journeys and trusted partner trips, chosen with care by Lefei TOUR.",
+    "ogImage": ""
+  },
+  {
+    "student": "Nicholas Linz",
+    "url": "https://indie-film-acquisition-tracker.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://indie-film-acquisition-tracker.vercel.app/",
+    "title": "The Acquisition Edit",
+    "description": "A warm editorial notebook for tracking independent film acquisitions.",
+    "ogImage": ""
+  },
+  {
+    "student": "Sara",
+    "url": "https://a-dcomp.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://ad2ad.vercel.app/",
+    "title": "Ad2Ad — Cultural Advertising Comparison",
+    "description": "Compare how one product is advertised across cultural markets.",
+    "ogImage": ""
+  },
+  {
+    "student": "Mailys Oka",
+    "url": "https://perso-projectt.vercel.app/index.html",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://perso-projectt.vercel.app/index.html",
+    "title": "Mindful Fibers",
+    "description": "A transparent, evidence-based clothing product-quality assessment.",
+    "ogImage": ""
+  },
+  {
+    "student": "Bo Gu",
+    "url": "https://proptech-brief.vercel.app/",
+    "status": 200,
+    "ok": true,
+    "finalUrl": "https://proptech-brief.vercel.app/",
+    "title": "PropTech Brief",
+    "description": "",
+    "ogImage": ""
+  }
+]
